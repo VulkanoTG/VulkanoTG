@@ -1,6 +1,8 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="http://www.google.com"><i>VulkanoTG</i></a> 🌠</h1>
   <p align="center">Estudo Desenvolvimento de softwares e desenvolvo um servidor de minecraft chamado <a href="https://discord.gg/k66eqQXa6n"><i>Thornya</i></a>
+  <p align="center">Formado em eletrotécnica e eletrotécnica atuando na área atualmente
+  <p align="center">buscando aprender linguagens para desenvolvimento de projetos pessoais
 
 <div align="center">
   <a href="https://github.com/vulkanotg">
@@ -11,6 +13,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Lua" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain.svg">
 
   
 ##
@@ -21,8 +24,8 @@
   <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> -->
 
-<!--<div align="center">
+<div align="center">
   
   ![Snake animation](https://github.com/vulkanotg/vulkanotg/blob/output/github-contribution-grid-snake.svg)
   
-</div>-->
+</div>
