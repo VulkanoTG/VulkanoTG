@@ -3,14 +3,14 @@
   <p align="center">Estudo Desenvolvimento de softwares e desenvolvo um servidor de minecraft chamado <a href="https://discord.gg/k66eqQXa6n"><i>Thornya</i></a>
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/vulkanotg">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vulkanotg&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanotg&theme=dracula&hide_border=false&&layout=compact"/>
+    <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vulkanotg&theme=dracula&hide_border=false&&layout=compact"/>-->
   </a>
 </div>
 
 <div align="center" valign="top"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
 
   
 ##
@@ -21,13 +21,8 @@
   <a href="mailto:eduardo.duduribeiro1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> -->
 
-<div align="center">
+<!--<div align="center">
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/vulkanotg/vulkanotg/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/vulkanoTG">Rafaella Ballerini</a></p>
-</div>
+</div>-->
