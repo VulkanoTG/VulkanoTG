@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center">Salve salve, sou <a href="www.linkedin.com/in/PedroHenriqueAFP"><i>Pedro Henrique</i></a> 🌠</h1>
+  <h1 align="center">Salve salve, sou <a href="https://www.linkedin.com/in/PedroHenriqueAFP"><i>Pedro Henrique</i></a> 🌠</h1>
   <p align="center">Estudo Desenvolvimento de softwares e desenvolvo um servidor de minecraft chamado <a href="https://discord.gg/k66eqQXa6n"><i>Thornya</i></a>
   <p align="center">Formado em eletrotécnica e eletromecânica atuando na área atualmente
   <p align="center">buscando aprender linguagens para desenvolvimento de projetos pessoais
