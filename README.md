@@ -34,4 +34,6 @@
 
 <a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
     <img  alt="Linux" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a> 
+</a>
+
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65066bcc8dfc79db2f00cdc1?variant=dark&roadmaps=frontend)](https://roadmap.sh)
