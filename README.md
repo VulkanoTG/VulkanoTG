@@ -13,9 +13,6 @@
 <img alt="" src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 <img alt="" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
     
-</div>
-<div absolute="right" padding="10">
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/65066bcc8dfc79db2f00cdc1?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+<a href="https://roadmap.sh" ><img src="https://api.roadmap.sh/v1-badge/tall/65066bcc8dfc79db2f00cdc1?variant=dark" alt="roadmap.sh"/></a>
 
-</div>
