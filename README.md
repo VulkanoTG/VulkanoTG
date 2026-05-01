@@ -1,29 +1,28 @@
 # Olá, eu sou Pedro Henrique 👋
 
-### Desenvolvedor Full Stack apaixonado por tecnologia e criação de soluções digitais.
+### Estudante de Desenvolvimento Web apaixonado por tecnologia e criação de soluções digitais.
 
-- 🚀 Focado em desenvolvimento web moderno  
-- 💼 Aberto para freelas e parcerias  
-- 📚 Sempre aprendendo novas tecnologias  
+- 📚 Atualmente estudando desenvolvimento web moderno  
+- 🚀 Construindo projetos para evoluir minhas habilidades  
+- 🤝 Aberto para networking, parcerias e aprendizado  
 
 ---
 
-## 🛠 Tecnologias
+## 🛠 Tecnologias que utilizo / estudo
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,git" />
 </p>
 
 ---
 
-## 🤝 Parcerias / Contato
+## 📫 Contato
 
-- 📧 **Email:** pedrohh114@gmail.com
-- 🔵 **Discord** vulkano_
+- 📧 **Email:** pedrohh114@gmail.com  
+- 🎮 **Discord:** vulkano_
 
 ---
 
 ## ⚡ Sobre mim
 
-Desenvolvedor focado em construir aplicações modernas, performáticas e com excelente experiência de usuário.  
-Busco transformar ideias em produtos reais através de código limpo e boas práticas.
+Atualmente em transição e aprofundamento na área de tecnologia, estudando desenvolvimento web e construindo projetos práticos para evoluir constantemente como desenvolvedor.
